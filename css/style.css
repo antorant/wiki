@@ -1,0 +1,63 @@
+/* Variables */
+:root {
+
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fff;
+  color: #000;
+  font-family: 'Inconsolata', monospace;
+  margin: 4rem auto;
+  max-width: 32rem;
+}
+
+img {
+  height: auto;
+  margin: 1rem 0;
+  max-width: 100%;
+}
+
+/* Text Styles */
+
+h1 {
+  font-size: 2rem;
+  letter-spacing: 1px;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 1rem;
+  line-height: 1;
+  margin-top: 3rem;
+}
+
+h3 {
+  font-size: 1rem;
+  line-height: 1;
+  margin-top: 3rem;
+}
+
+p {
+  line-height: 1.5;
+  /* margin-bottom: 3rem; */
+}
+
+ul {
+  line-height: 1.5;
+  /* margin-bottom: 3rem; */
+  padding-left: 1rem;
+}
+
+li {
+  line-height: 1.5;
+  /* margin-bottom: .5rem; */
+}
+
+a, a:link, a:visited {
+  color: inherit;
+}
