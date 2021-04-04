@@ -1,3 +1,14 @@
+var hostname = window.location.hostname;
+var path;
+
+if (hostname == 'localhost') {
+  path = '/source/';
+} else {
+  path = '/wiki/source';
+}
+
+console.log(window.location.hostname)
+
 // Parse and render the loaded Markdown content
 function renderContent(data, el){
   // convert markdown to html
@@ -11,7 +22,7 @@ function renderContent(data, el){
 // load the markdown content
 function loadContent(hash, el) {
   var request = new XMLHttpRequest();
-  var url = '/source/'+hash+'.md';
+  var url = path+hash+'.md';
   request.open('GET', url);
   request.onreadystatechange = function() {
     if (request.readyState == 4 && request.status == 200) {
