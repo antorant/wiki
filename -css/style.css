@@ -72,5 +72,14 @@ a, a:link, a:visited {
 }
 
 blockquote {
+  border: solid black;
+  border-width: 0 0 0 1px;
   font-style: italic;
+  margin-left: 0;
+  padding-left: 2rem;
+}
+
+blockquote + p {
+  font-size: .75rem;
+  text-align: right;
 }
