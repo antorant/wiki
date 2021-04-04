@@ -4,7 +4,7 @@ var path;
 if (hostname == 'localhost') {
   path = '/source/';
 } else {
-  path = '/wiki/source';
+  path = '/wiki/source/';
 }
 
 console.log(window.location.hostname)
