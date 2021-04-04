@@ -7,8 +7,6 @@ if (hostname == 'localhost') {
   path = '/wiki/source/';
 }
 
-console.log(window.location.hostname)
-
 // Parse and render the loaded Markdown content
 function renderContent(data, el){
   // convert markdown to html
@@ -36,8 +34,6 @@ function loadContent(hash, el) {
 function loadEntries(){
   var elements = document.querySelectorAll('.entry');
   Array.prototype.forEach.call(elements, function(el, i){
-    console.log(el.dataset.src);
-
     loadContent(el.dataset.src, el);
   });
 }
