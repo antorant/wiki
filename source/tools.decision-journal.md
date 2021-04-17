@@ -8,7 +8,7 @@
 
 4. Any other complications/complexity:
 
-5. All options + why they were chosen/not
+5. All options + why they were chosen or not
 
 6. DECISION:
 

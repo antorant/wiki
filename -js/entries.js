@@ -8,23 +8,32 @@ if (hostname == 'localhost') {
 }
 
 // Parse and render the loaded Markdown content
-function renderContent(data, el){
+function renderContent(data, el, src){
   // convert markdown to html
   var converter = new showdown.Converter(),
-      html      = converter.makeHtml(data);
+      html = converter.makeHtml(data);
 
   // render HTML in element
   el.innerHTML = html;
 }
 
+// Parse and render the loaded Markdown content
+function renderBrokenLink(el, src){
+  el.classList.add('broken-link');
+  el.innerHTML = '<strike>'+src+'.md</strike>';
+}
+
 // load the markdown content
-function loadContent(hash, el) {
+function loadContent(src, el) {
   var request = new XMLHttpRequest();
-  var url = path+hash+'.md';
+  var url = path+src+'.md';
   request.open('GET', url);
   request.onreadystatechange = function() {
+    if (request.readyState == 2 && request.status == 404) {
+      renderBrokenLink(el, src);
+    }
     if (request.readyState == 4 && request.status == 200) {
-      renderContent(request.responseText, el);
+      renderContent(request.responseText, el, src);
     }
   }
   request.send();

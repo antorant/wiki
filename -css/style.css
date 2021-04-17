@@ -84,3 +84,8 @@ blockquote + p {
   font-size: .75rem;
   text-align: right;
 }
+
+.broken-link {
+  color: #999;
+  font-size: .75rem;
+}
