@@ -1,0 +1,1 @@
+> "We have various abilities, present in all rational creatures as in the nature of rationality itself. And this is one of them. Just as nature takes every obstacle, every impediment, and works around it — turns it to its purposes, incorporates it into itself — so, too, a rational being can turn each setback into raw material and use it to achieve its goal."

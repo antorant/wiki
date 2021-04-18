@@ -1,0 +1,1 @@
+> "You must needs experience pain and hunger and thirst, and grow old and be ill, and suffer loss, and finally perish. But you needn't believe the chatter of the people around you: there's nothing in all this that's evil, insupportable or even hard. Those people are afraid of things by a kind of mutual consent."

@@ -1,0 +1,1 @@
+> "There is no doubt that the game has its dangers. For that very reason we love it; only the weak are sent out on paths without perils."

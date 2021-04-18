@@ -1,0 +1,1 @@
+> "... his mouth slowly twisted into a smile, then a laugh. Soundlessly laughing, he shook his head, and said: "Maya! Maya!"

@@ -1,0 +1,1 @@
+> "I find it useful to think through why I feel negative emotions as it can change/lessen the way I feel, thinking about assumptions I have made and the baggage I/others have brought to the situation.

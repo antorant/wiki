@@ -1,0 +1,3 @@
+> "We are attracted by wealth, pleasures, good looks, political advancements... repelled by exertion, death, pain, disgrace and limited means... we need to train ourselves not to crave for the former and not to be afraid of the latter"  
+(The difference in postures between people climbing or descending a slope: throwing weight forward, leaning in, or leaning back)  
+"The path that leads to pleasures is the downward one; the upward climb is... to rugged and difficult ground. Here let us throw our bodies forward, in the other direction rein them back."

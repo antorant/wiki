@@ -1,0 +1,1 @@
+> "When you need encouragement, think of the qualities the people around you have: this one's energy, that one's modesty, another's generosity, and so on. Nothing is as encouraging as when virtues are visibly embodied in the people around us, when we're practically showered with them. It's good to keep this in mind."
