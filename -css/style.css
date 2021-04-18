@@ -68,8 +68,8 @@ a, a:link, a:visited {
 
 
 .entry {
-  margin-bottom: 3rem;
-  margin-top: 3rem;
+  margin-bottom: 6rem;
+  margin-top: 6rem;
 }
 
 blockquote {
@@ -80,10 +80,14 @@ blockquote {
   padding-left: 2rem;
 }
 
-blockquote + p {
+blockquote em {
+  font-style: normal;
+}
+
+/* blockquote + p {
   font-size: .75rem;
   text-align: right;
-}
+} */
 
 .broken-link {
   color: #999;
