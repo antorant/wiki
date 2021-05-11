@@ -1,0 +1,1 @@
+Arguing without understanding is unpersuasive. Telling someone to change makes it less (not more) likely that they will. People almost nver change without first feeling understood.

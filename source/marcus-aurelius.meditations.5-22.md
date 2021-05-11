@@ -1,0 +1,1 @@
+> If it does not harm the community, it does not harm its members. When you think you've been injured, apply this rule: If the community isn't injured by it, neither am I. And if it is, anger is not the answer. Show the offender where he went wrong.

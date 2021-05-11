@@ -1,0 +1,1 @@
+> (Gandhi) knew that fighting would only generate retaliation ... focusing on an ultimate goal and refusing t divert energy to unnecessary skirmishes along the way.
